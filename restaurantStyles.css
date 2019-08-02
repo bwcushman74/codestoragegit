@@ -1,0 +1,47 @@
+/*
+Creator: Brian Cushman
+Date created: 07/29/2019
+Date last modified: 
+*/
+
+
+
+header, footer {
+    background-color: #5b7d87;
+    color: #ffffcc;
+    height: 45px;
+    text-align: center;
+    padding: 0px 10px 90px 10px;
+}
+h1 {
+    font-size: 4em;
+	font-family: arial, helvetica, sans-serif;
+}
+a {
+  font-family: arial, helvetica, sans-serif;
+  text-decoration: underline;
+  font-weight: none;
+  font-size: 1em;
+  
+}
+
+
+a:link {
+  color: black;
+}
+
+a:visited {
+  color: red;
+}
+
+a:hover {
+  text-decoration: none;
+  font-weight: bold;
+  color: #00c;
+  font-family: courier;
+}
+
+a:active {
+  font-weight: bold;
+  text-decoration: none;
+}
